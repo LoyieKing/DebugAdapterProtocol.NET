@@ -1,0 +1,8 @@
+D:\Documents\Projects\DebugAdapterProtocol\DebugAdapterProtocol\bin\Release\netstandard2.1\DebugAdapterProtocol.deps.json
+D:\Documents\Projects\DebugAdapterProtocol\DebugAdapterProtocol\bin\Release\netstandard2.1\DebugAdapterProtocol.dll
+D:\Documents\Projects\DebugAdapterProtocol\DebugAdapterProtocol\bin\Release\netstandard2.1\DebugAdapterProtocol.pdb
+D:\Documents\Projects\DebugAdapterProtocol\DebugAdapterProtocol\obj\Release\netstandard2.1\DebugAdapterProtocol.csprojAssemblyReference.cache
+D:\Documents\Projects\DebugAdapterProtocol\DebugAdapterProtocol\obj\Release\netstandard2.1\DebugAdapterProtocol.AssemblyInfoInputs.cache
+D:\Documents\Projects\DebugAdapterProtocol\DebugAdapterProtocol\obj\Release\netstandard2.1\DebugAdapterProtocol.AssemblyInfo.cs
+D:\Documents\Projects\DebugAdapterProtocol\DebugAdapterProtocol\obj\Release\netstandard2.1\DebugAdapterProtocol.dll
+D:\Documents\Projects\DebugAdapterProtocol\DebugAdapterProtocol\obj\Release\netstandard2.1\DebugAdapterProtocol.pdb
